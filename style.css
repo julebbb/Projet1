@@ -1,3 +1,69 @@
+body {
+  color: white; /* Le texte de la page sera blanc */
+  width:auto;
+  background-color: rgb(20, 20, 20); /* Le fond de la page sera noir */
+  padding-left: 10%;
+  padding-right: 10%;
+  text-align: center;
+  font-family: "Impact", fantasy;
+}
+
+p {
+  font-size: MEDIUM;
+            }
+
+h1,h2 {
+  font-size: :LARGE;/*TAILLE TITRE */
+}
+
+
+ul,li {
+  font-size: MEDIUM;
+  font-weight: normal;
+}
+
+body {
+  
+}
+/*Partie Réalisation*/
+#nomEntreprise, #titre{
+  color: #ffcc66;
+  clear: both;
+}
+/* Image de la réalisation*/
+#elec1 {
+  width: 100%;
+}
+#elec2 {
+  width: 49%;
+}
+#elec3 {
+  width: 50%;
+}
+#elec4 {
+  width: 100%;
+}
+
+/*Menu réalisation*/
+.menu {
+  position: fixed;
+  width: auto;
+  right: 0%;
+  top:5%;
+
+  margin: 5px auto;
+  list-style-type: none;
+  border-radius: 4px;
+  background-color: #ffcc66;
+  font-size: 20px;
+}
+
+.menu a {
+  color: black;
+  text-decoration: none
+}
+
+/*Partie contact*/
 h1.contact{
   text-align: center;
   color: white;
@@ -39,10 +105,6 @@ legend {
   font-weight: bold;
 }
 
-body{
-  background-color: rgba;
-}
-
 div.contactdiv{
     background-image: url("images/light-bulb-3104355_1920.jpg");
     height: 1000px;
@@ -55,4 +117,3 @@ i {
 input{
   margin-top: 15px;
   margin-bottom: 10px;
-}
