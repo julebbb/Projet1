@@ -1,0 +1,16 @@
+body {
+  width:auto;
+  background-color: rgb(245,235,235);
+}
+#elec1 {
+  width: 50%;
+}
+#elec2 {
+  width: 75%;
+}
+#elec3 {
+  width: 75%;
+}
+#elec4 {
+  width: 20%;
+}
