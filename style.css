@@ -1,3 +1,30 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+          body
+          {
+            background-color: black; /* Le fond de la page sera noir */
+            color: white; /* Le texte de la page sera blanc */
+          }
+
+            p
+            {
+              font-size: MEDIUM;
+            }
+
+            h1,h2
+            {
+              font-size: :LARGE;/*TAILLE TITRE */
+            }
+
+
+            ul,li
+            {
+              font-size: MEDIUM;
+              font-weight: normal;
+            }
+=======
+=======
+>>>>>>> b5de707c3b789cb6731663d41483a63456439ae3
 body {
   color: white; /* Le texte de la page sera blanc */
   width:auto;
@@ -62,6 +89,9 @@ body {
   color: black;
   text-decoration: none
 }
+<<<<<<< HEAD
+>>>>>>> 17ae67627b5746330382e194585b557bbee69d52
+=======
 
 /*Partie contact*/
 h1.contact{
@@ -117,3 +147,4 @@ i {
 input{
   margin-top: 15px;
   margin-bottom: 10px;
+>>>>>>> b5de707c3b789cb6731663d41483a63456439ae3
