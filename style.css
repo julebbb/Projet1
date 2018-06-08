@@ -1,0 +1,22 @@
+          body
+          {
+            background-color: black; /* Le fond de la page sera noir */
+            color: white; /* Le texte de la page sera blanc */
+          }
+
+            p
+            {
+              font-size: MEDIUM;
+            }
+
+            h1,h2
+            {
+              font-size: :LARGE;/*TAILLE TITRE */
+            }
+
+
+            ul,li
+            {
+              font-size: MEDIUM;
+              font-weight: normal;
+            }
