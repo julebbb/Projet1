@@ -1,56 +1,12 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-          body
-          {
-            background-color: black; /* Le fond de la page sera noir */
-            color: white; /* Le texte de la page sera blanc */
-          }
 
-            p
-            {
-              font-size: MEDIUM;
-            }
-
-            h1,h2
-            {
-              font-size: :LARGE;/*TAILLE TITRE */
-            }
-
-
-            ul,li
-            {
-              font-size: MEDIUM;
-              font-weight: normal;
-            }
 =======
-=======
->>>>>>> b5de707c3b789cb6731663d41483a63456439ae3
 body {
-  color: white; /* Le texte de la page sera blanc */
   width:auto;
-  background-color: rgb(20, 20, 20); /* Le fond de la page sera noir */
+  background-color: rgb(20, 20, 20);
   padding-left: 10%;
   padding-right: 10%;
   text-align: center;
   font-family: "Impact", fantasy;
-}
-
-p {
-  font-size: MEDIUM;
-            }
-
-h1,h2 {
-  font-size: :LARGE;/*TAILLE TITRE */
-}
-
-
-ul,li {
-  font-size: MEDIUM;
-  font-weight: normal;
-}
-
-body {
-  
 }
 /*Partie Réalisation*/
 #nomEntreprise, #titre{
@@ -89,62 +45,4 @@ body {
   color: black;
   text-decoration: none
 }
-<<<<<<< HEAD
 >>>>>>> 17ae67627b5746330382e194585b557bbee69d52
-=======
-
-/*Partie contact*/
-h1.contact{
-  text-align: center;
-  color: white;
-}
-
-p.contact{
-  text-align: center;
-  font-size: 20px;
-  color: white;
-  margin-bottom: 80px;
-  margin-top: 80px;
-}
-
-
-fieldset {
-  border: 1px solid rgb(255,232,57);
-  width: 400px;
-  margin: auto;
-  text-align:center;
-}
-
-form{
-  margin: auto;
-  padding-top: 50px;
-  padding-bottom: 50px;
-  background-color: rgba(0, 0, 0, 0.5);
-  border-radius: 25px;
-  width: 700px;
-  color: white;
-}
-
-textarea {
-  height: 100px;
-  width: 400px;
-}
-
-legend {
-  padding: 0px 3px;
-  font-weight: bold;
-}
-
-div.contactdiv{
-    background-image: url("images/light-bulb-3104355_1920.jpg");
-    height: 1000px;
-}
-
-i {
-  color: yellow;
-}
-
-input{
-  margin-top: 15px;
-  margin-bottom: 10px;
->>>>>>> b5de707c3b789cb6731663d41483a63456439ae3
